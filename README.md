@@ -1,2 +1,2 @@
-# MiniProjects
+# TicTacToe
 Mini JS Projects
